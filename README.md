@@ -1,6 +1,8 @@
 # Creditcard Fraud Detection System. 
 
-The detailed analysis of 
+The detailed analysis of credit card fraudulent data detection system. 
+
+Dataset: [Anonymized credit card transactions labeled as fraudulent or genuine](https://www.kaggle.com/dalpozz/creditcardfraud)
 
 Algorithm Used:
 
