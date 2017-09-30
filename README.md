@@ -8,6 +8,6 @@ Dataset: [Anonymized credit card transactions labeled as fraudulent or genuine](
 Algorithm Used:
 
 1. [Simple Logistic regression](https://github.com/hvp004/creditcard-fraud-detection/blob/master/Logistic_Regression.pdf)
-2. [Logistic Regression with Undersampling](https://github.com/hvp004/creditcard-fraud-detection/blob/master/LogisticRegression_UnderSampling.pdf)
+2. [Logistic Regression with Undersampling](https://github.com/hvp004/creditcard-fraud-detection/blob/master/LogistiRegression_UnderSampling.pdf)
 3. [Synthetic Minority Over Sampling Technique (SMOTE) with gini as the critertionn of best split.](https://github.com/hvp004/creditcard-fraud-detection/blob/master/SMOTE_gini.pdf) 
-4. [Synthetic Minority Over Sampling Technique (SMOTE) with entropy as the critertionn of best split.](https://github.com/hvp004/creditcard-fraud-detection/blob/master/SMOTE--Entropy.pdf)
+4. [Synthetic Minority Over Sampling Technique (SMOTE) with entropy as the critertionn of best split.](https://github.com/hvp004/creditcard-fraud-detection/blob/master/SMOTE_Entropy.pdf)
